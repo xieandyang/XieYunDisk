@@ -1,0 +1,34 @@
+{
+	"redis":
+	{
+		"ip": "47.113.193.186",
+		"port": "6379",
+		"passwd": "240905"
+	},
+	
+	"mysql":
+	{
+		"ip": "47.113.193.186",
+		"port": "3306",
+		"database": "xie_yunDisk",
+		"user": "mysql",
+		"password": "Xie240905."
+	},
+	
+	"dfs_path":
+	{
+		"client": "/etc/fdfs/client.conf"
+	},
+	
+	"web_server":
+	{
+		"ip": "127.0.0.1",
+		"port": "80"
+	},
+	
+	"storage_web_server":
+	{
+		"ip": "127.0.0.1",
+		"port": "8888"
+	}
+}
